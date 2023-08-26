@@ -365,6 +365,10 @@ nav .fas {
     padding: 0;
     overflow-x: hidden;
   }
+  .layer {
+    width: 270px;
+    height: 0%;
+  }
   .headertext {
     margin-top: 10%;
     font-size: 12px;
